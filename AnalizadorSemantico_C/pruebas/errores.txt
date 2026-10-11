@@ -1,0 +1,7 @@
+int edad = 20;
+int edad = 21;
+int precio = 12.5;
+total = edad + 3;
+char letra = 'Z';
+int suma = letra + 2;
+float promedio = 5 / 2;

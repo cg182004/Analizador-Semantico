@@ -1,0 +1,5 @@
+int edad = 20;
+float precio = 15.5;
+char letra = 'A';
+string nombre = "Carlos";
+float suma = edad + precio * 2;
